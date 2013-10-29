@@ -1,5 +1,5 @@
 /*********************************************************************************
-*  Copyright (c) 2013-2011,   Paul Rosenfeld
+*  Copyright (c) 2013,   Paul Rosenfeld
 *                             University of Maryland 
 *                             dramninjas [at] gmail [dot] com
 *  All rights reserved.
@@ -25,6 +25,7 @@
 *  OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 *  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 *********************************************************************************/
+
 
 
 #ifndef _AFFINITY_H_

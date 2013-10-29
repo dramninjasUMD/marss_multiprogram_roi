@@ -1,4 +1,3 @@
-
 // -*- c++ -*-
 //
 // PTLsim: Cycle Accurate x86-64 Simulator
